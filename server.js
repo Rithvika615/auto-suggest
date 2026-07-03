@@ -1,7 +1,7 @@
 const express= require('express')
 
 const app= express()
-const PORT=3000;
+const PORT=process.env.PORT || 3002
 //web server:
 app.use(express.static("frontend"))
 
