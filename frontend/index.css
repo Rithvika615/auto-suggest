@@ -2,12 +2,11 @@ h1{
     color : red;
 }
 
-  #home-intro{
+#home-intro{
     text-align:center;
     /*border: 3px;
     border-color: black;
     border-style: solid;*/
-
     border: 5px solid blueviolet;
 }
 
@@ -17,4 +16,18 @@ h1{
 
 #p2{
     color:blue;
+}
+
+#nav{
+    text-align: center;
+    background-color: brown;
+    height:25px;
+    padding-top: 7px;
+    margin-bottom: 3px;
+}
+
+#nav a{
+    margin: 0px 5px;
+    text-decoration: none;
+    color: white;
 }
