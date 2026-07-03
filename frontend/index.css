@@ -2,3 +2,19 @@ h1{
     color : red;
 }
 
+  #home-intro{
+    text-align:center;
+    /*border: 3px;
+    border-color: black;
+    border-style: solid;*/
+
+    border: 5px solid blueviolet;
+}
+
+#home-intro:hover{
+    background-color:lightcoral;
+}
+
+#p2{
+    color:blue;
+}
